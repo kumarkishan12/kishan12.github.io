@@ -1,2 +1,4 @@
 name: Kishan Kumar, Infosys
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
